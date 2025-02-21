@@ -27,14 +27,6 @@ fn main() {
   </pre>
 </div>
 
-<div style="background: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <h2 style="text-align: center;">Blog & Websites</h2>
-  <ul style="list-style: none; padding: 0; text-align: center;">
-    <li><a href="https://devblog.example.com" target="_blank">Dev Blog</a></li>
-    <li><a href="https://techthoughts.example.com" target="_blank">Tech Thoughts</a></li>
-    <li><a href="https://opensource.example.com" target="_blank">Open Source Hub</a></li>
-  </ul>
-</div>
 
 <br>
 
