@@ -64,5 +64,12 @@ fn main() {
   <ul>
     <li><strong>LyText Editor:</strong> A modern, browser-based text editor built with vanilla JavaScript, featuring real-time syntax highlighting, multi-tab editing, and live HTML preview capabilities.  
 </li>
+    <li><strong>Roman calculator:</strong> A futuristic Roman numeral calculator that performs arithmetic operations directly using Roman numerals! Inspired by space aesthetics, this tool lets you add, subtract, multiply, and divide like an ancient astronaut.  
+</li>
+    <li><strong>ASCII Video Studio:</strong> ASCII Video Converter is a simple web-based tool that converts videos into ASCII art. It runs entirely in the browser without needing any external dependencies.  
+</li>
+  </li>
+    <li><strong>PomPod Music Player:</strong> Apple ipod inspired pomegranate pod where you can import your songs and play it in retro UI.  
+</li>
   </ul>
 </div>
